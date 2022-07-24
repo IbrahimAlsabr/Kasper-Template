@@ -30,34 +30,27 @@ Users should be able to:
 ### Screenshot
 
 #### Landing Screen 
-![Landing Screen](https://github.com/IbrahimAlsabr/Leon-Template/blob/master/design/screenshots/landing-screen.jpg?raw=true")
+![Landing Screen](design/screenshots/landing.jpg?raw=true")
 
+#### Portfolio Screen 
+![Landing Screen](design/screenshots/portfolio.png?raw=true")
 
+#### About Screen 
+![Landing Screen](design/screenshots/stat.png?raw=true")
 
-#### Feature Large Screen 
-![Landing Screen](https://github.com/IbrahimAlsabr/Leon-Template/blob/master/design/screenshots/feature-large-screen.jpg?raw=true")
+#### Skills Screen 
+![Landing Screen](design/screenshots/skills.jpg?raw=true")
 
-#### Feature Medium Screen 
-![Landing Screen](https://github.com/IbrahimAlsabr/Leon-Template/blob/master/design/screenshots/feature-medium-screen.jpg?raw=true")
+#### Pricing Screen 
+![Landing Screen](design/screenshots/pricing.png?raw=true")
 
-#### Feature Small Screen 
-![Landing Screen](https://github.com/IbrahimAlsabr/Leon-Template/blob/master/design/screenshots/feature-screen-mobile.jpg?raw=true")
+#### Contact Screen 
+![Landing Screen](design/screenshots/contact.png?raw=true")
 
-
-
-#### Service Large Screen 
-![Desktop Screen](https://github.com/IbrahimAlsabr/Leon-Template/blob/master/design/screenshots/service-large-screen.jpg?raw=true)
-
-#### Service Medium Screen
-![Desktop Screen](https://github.com/IbrahimAlsabr/Leon-Template/blob/master/design/screenshots/service-medium-screen.jpg?raw=true)
-
-#### Small Screen
-![Landing Screen](https://github.com/IbrahimAlsabr/Leon-Template/blob/master/design/screenshots/feature-small-screen.png?raw=true")
 
 ### Links
-
-- Source Code URL:  [here](https://github.com/IbrahimAlsabr/Leon-Template)
-- Live Site URL: [here](https://ibrahimalsabr.github.io/Leon-Template/)
+- Source Code URL: [here](https://github.com/IbrahimAlsabr/Kasper-Template)
+- Live Site URL: [here](https://ibrahimalsabr.github.io/Kasper-Template/)
 
 ## My process
 
@@ -66,12 +59,14 @@ Users should be able to:
 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
+
 ### CSS properties used
 - Media Queries And Responsive Design
 - Flexbox
 - CSS Grid
 - Position
 - Mobile-first workflow
+
 
 ### Layout
 The designs were created to the following widths:
@@ -80,12 +75,14 @@ The designs were created to the following widths:
 - Medium screen: 992px
 - Large screen: 1200px
 
+
 ### Useful resources
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) 
 - [W3 Schools](https://www.w3schools.com/TAGS/default.ASP) 
 - [Summary CSS Course](https://elzero.org/category/courses/css-course/)
-## Author
 
+
+## Author
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbrahimAlsabr)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-alsabr-188939231/)
@@ -94,5 +91,4 @@ The designs were created to the following widths:
 
 
 ## Acknowledgments
-
 * [Elzero Academy](https://elzero.org/)
